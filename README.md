@@ -1,6 +1,6 @@
 Required JAR(s):	Gson2.8.0 or newer.
 
-I have attached Gson jar in resource folder already.
+I have attached Gson jar in resources folder already.
 
 Input File: Path with File name needs to be passed from command line when prompted.
 Output File: Path with File name needs to be passed from command line when prompted.
